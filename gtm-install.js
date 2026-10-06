@@ -5,7 +5,7 @@
    guillemets ci-dessous (exemple : "GTM-ABC1234"), puis enregistrez.
    ===================================================================== */
 
-var GTM_ID = "";
+var GTM_ID = "GTM-5NHQ7CX3";
 
 /* ---------------------------------------------------------------------
    Ne modifiez pas la suite : c'est le code officiel de Google Tag Manager.
